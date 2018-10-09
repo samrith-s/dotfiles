@@ -27,8 +27,6 @@ If all goes well, you should have a terminal that looks something like this:
 
 Feel free to create issues or PRs if you guys have any issues/suggestions or want to add some stuff into this config!
 
----
-
 [oh_my_zsh_prereq]:https://github.com/robbyrussell/oh-my-zsh#prerequisites
 [iterm_import_profile]:https://stackoverflow.com/questions/35211565/how-do-i-import-an-iterm2-profile
 [nerd_fonts]:https://github.com/ryanoasis/nerd-fonts
