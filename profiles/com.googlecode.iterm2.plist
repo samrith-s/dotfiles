@@ -962,8 +962,6 @@
 			<true/>
 			<key>Window Type</key>
 			<integer>0</integer>
-			<key>Working Directory</key>
-			<string>/Users/samrith.s</string>
 		</dict>
 		<dict>
 			<key>ASCII Anti Aliased</key>
@@ -1692,7 +1690,7 @@
 			<key>Mouse Reporting</key>
 			<true/>
 			<key>Name</key>
-			<string>Samrith iTerm</string>
+			<string>Awesome iTerm</string>
 			<key>Non Ascii Font</key>
 			<string>Monaco 12</string>
 			<key>Non-ASCII Anti Aliased</key>
@@ -1763,8 +1761,6 @@
 			<true/>
 			<key>Window Type</key>
 			<integer>0</integer>
-			<key>Working Directory</key>
-			<string>/Users/samrith.s</string>
 		</dict>
 	</array>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
@@ -1816,8 +1812,6 @@
 			<string>kNextWindowPointerAction</string>
 		</dict>
 	</dict>
-	<key>PrefsCustomFolder</key>
-	<string>/Users/samrith.s/Work/dotfiles/profiles</string>
 	<key>Print In Black And White</key>
 	<true/>
 	<key>SUEnableAutomaticChecks</key>
