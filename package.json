@@ -1,0 +1,16 @@
+{
+    "name": "dotfiles",
+    "author": "Samrith Shankar",
+    "version": "1.0.0",
+    "description": "All of my useful dotfiles with some scripts to ease setup",
+    "license": "MIT",
+    "scripts": {
+        "copy:dotfiles": "./scripts/copy-dotfiles.sh",
+        "copy:profiles": "./scripts/copy-profiles.sh",
+        "setup:terminal": "./scripts/setup-terminal.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/samrith-s/dotfiles.git"
+    }
+}
