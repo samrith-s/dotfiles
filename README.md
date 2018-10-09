@@ -24,6 +24,7 @@ npm run setup:terminal
 ```
 
 If all goes well, you should have a terminal that looks something like this:
+![terminal screenshot][screenshot]
 
 Feel free to create issues or PRs if you guys have any issues/suggestions or want to add some stuff into this config!
 
@@ -31,3 +32,4 @@ Feel free to create issues or PRs if you guys have any issues/suggestions or wan
 [iterm_import_profile]:https://stackoverflow.com/questions/35211565/how-do-i-import-an-iterm2-profile
 [nerd_fonts]:https://github.com/ryanoasis/nerd-fonts
 [powerlevel9k]:https://github.com/bhilburn/powerlevel9k
+[screenshot]:./screenshots/term-sc-1.png
