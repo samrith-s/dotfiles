@@ -7,7 +7,7 @@
     "scripts": {
         "copy:dotfiles": "./scripts/copy-dotfiles.sh",
         "copy:profiles": "./scripts/copy-profiles.sh",
-        "setup:terminal": "./scripts/setup-terminal.sh"
+        "setup:terminal": "./scripts/copy-profiles.sh && ./scripts/setup-terminal.sh"
     },
     "repository": {
         "type": "git",
